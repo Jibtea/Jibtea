@@ -1,4 +1,11 @@
-## Hi there 👋 pasathai
+# JIratYA
+Ma name JIratchaya JA. somethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomething
+
+## Hobby
+send gay meme to P'Mink luv u naja 
+![cat](URL "https://m.media-amazon.com/images/I/51y8GUVKJoL.jpg")
+
+
 
 <!--
 **Jibtea/Jibtea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
