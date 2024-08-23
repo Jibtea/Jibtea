@@ -1,9 +1,25 @@
-# JIratYA
-Ma name JIratchaya JA. somethingsomethingsomethingsomethingsomethingsomethingsomethingsomethingsomething
+<h1>JOYSOIPAD</h1>
+Ma name JIratchaya JA. somethingsomethingsomethingsomethingsometidtid
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+### MY skills not include all of
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cpp)](https://skillicons.dev)
+
+Brokegramer 
 
 ## Hobby
-send gay meme to P'Mink luv u naja 
-![cat](URL "https://m.media-amazon.com/images/I/51y8GUVKJoL.jpg")
+  <li>send G A Y meme to P'Mink luv u naja :kissing_heart::kissing_heart::kissing_heart:</li>
+  <li>chitchat with sud lor PP</li>
+
+![cat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-UrYIzs2u3MPXTvIPUHNbHhH-jdy_Z04Ig&s)
+
+### What did I do?
+Mai do anything JA yak non.
+test link 
+#### Click ME https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+
+
 
 
 
