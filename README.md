@@ -1,4 +1,5 @@
-<h1>JOYSOIPAD</h1>
+<h1>Wellcome to Jiratchaya github</h1>
+<h2>now i gonna travelling with some code that make ma brain broke</h2>
 
 ![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/full-stack-technical-joke-comedian.svg)
 
@@ -6,7 +7,7 @@ Ma name JIratchaya JA. somethingsomethingsomethingsomethingsometidtid
 
 ![Gif](https://media2.giphy.com/media/mkhMTALnrYRLnuoe5P/giphy.gif)
 
-### MY skills not include all of
+### MY skills include all of
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cpp,bun)](https://skillicons.dev)
 
 Brokegramer 
