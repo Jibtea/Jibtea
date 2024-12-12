@@ -4,7 +4,7 @@
 <h2> :raised_hands: About ME!!?!!</h2>
 You can call me Eve. Coding isn't my forte, but I'm determined to make it happen. Thx for watching my github. :kissing_heart::kissing_heart::kissing_heart:
 <ul>
-  <li>:book: Freshman student in Computer Engineering and Digital Technology at chulalongkorn university</li>
+  <li>:book: I'm freshman in Computer Engineering and Digital Technology at chulalongkorn university.</li>
   <li>:art: I absolutely love drawing! </li>
   <li>:newspaper: I don't think I'm very good at coding yet, but I'll try my best. If you have any coding recommendations or about anythings else, feel free to contact me using the details below.</li>
   <ul>
