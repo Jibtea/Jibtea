@@ -15,13 +15,13 @@ You can call me Eve. Coding isn't my forte, but I'm determined to make it happen
 
 
 ## MY skills include all of
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,cpp,js,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,cpp,js,java,mongodb)](https://skillicons.dev)
 
 
 now I'm learning.
 
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,c#,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,c#,react,typescript)](https://skillicons.dev)
 
 
 I know it's not much right now, but I promise it will grow in the future.
@@ -44,6 +44,7 @@ I know it's not much right now, but I promise it will grow in the future.
   :pencil:basic rentCarProject
   <dd>  This is my first attempt at backend development. I don't think it's good enough, and I want to try more with backend development.</dd>
   <dd>  <a href="https://github.com/adusnis/Croissant-Boom-">  🚗🚗Rentcar Backend link🚙🚙</a></dd>
+<!--   [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) -->
 
   :pencil: Little rabbits FOOD STORE 🐰
   <dd>  This is a mini project focused on basic UX/UI design concepts. I aimed to create an app that is user-friendly and visually appealing. This is a prototype for a web app I designed for my small snack shop during my school festival.</dd>
