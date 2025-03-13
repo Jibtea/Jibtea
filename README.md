@@ -35,6 +35,7 @@ I know it's not much right now, but I promise it will grow in the future.
   <dd>  Developing a face detection model based on the YOLOv5 architecture and create a program for face detection and people counting in a library using computer vision techniques with our model name Wayaj.</dd>
   <dd>  :trophy: Silver Prize : SEOUL INTERNATIONAL INVENTION FAIR 2023 </dd>
   <dd>  :trophy: Special Prize : VIETNAM FUND FOR SUPPORTING TECHNOLOGICAL CREATIONS</dd>
+  <dd>  <a href="https://github.com/wayupuk/Face-Detection?tab=readme-ov-file">  🤡🤡 Wayaj Link 🤡🤡</a></dd>
 
   :pencil:🥐Croissant BOOOOOOOMMMMMMM
   <dd>  This is my Java mini project to review my Java skills. It seems like I haven't committed anything yet because this is a new repository that my friend cloned from the classroom repo.</dd>
