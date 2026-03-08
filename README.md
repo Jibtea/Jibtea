@@ -15,13 +15,13 @@ You can call me Eve. Coding isn't my forte, but I'm determined to make it happen
 
 
 ## MY skills include all of
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,cpp,js,java,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,cpp,js,java,mongodb,react)](https://skillicons.dev)
 
 
 now I'm learning.
 
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,c#,react,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,c#,typescript)](https://skillicons.dev)
 
 
 I know it's not much right now, but I promise it will grow in the future.
